@@ -93,7 +93,7 @@ export const TEAM: TeamMember[] = [
     id: 't1',
     name: 'John Anderson',
     role: 'Founder & CEO',
-    bio: 'With over 30 years in civil engineering, John leads Apex with a vision for sustainable growth.',
+    bio: 'With over 30 years in civil engineering, John leads MAKEOVER with a vision for sustainable growth.',
     image: 'images/team-john.jpg'
   },
   {
@@ -116,7 +116,7 @@ export const MILESTONES: Milestone[] = [
   {
     year: '1995',
     title: 'Founded',
-    description: 'Apex Civil was established by John Anderson with a single dump truck and a vision.'
+    description: 'MAKEOVER was established by John Anderson with a single dump truck and a vision.'
   },
   {
     year: '2005',

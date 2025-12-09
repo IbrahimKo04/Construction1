@@ -47,7 +47,7 @@ const OurStory: React.FC = () => {
             <div>
               <h2 className="text-3xl font-bold font-heading text-dark mb-6">Who We Are</h2>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Apex Civil & Construction was founded on the principle that every project is an opportunity to improve the community it serves. What started as a small family operation has grown into a premier construction firm handling multi-million dollar infrastructure and commercial projects.
+                MAKEOVER Construction was founded on the principle that every project is an opportunity to improve the community it serves. What started as a small family operation has grown into a premier construction firm handling multi-million dollar infrastructure and commercial projects.
               </p>
               <p className="text-gray-600 mb-8 leading-relaxed">
                 Our success is driven by our people and our relentless commitment to safety, quality, and integrity. We don't just pour concrete; we build trust.
