@@ -51,7 +51,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <HardHat className="h-6 w-6 text-white" />
               </div>
               <span className="text-xl md:text-2xl font-bold font-heading text-dark tracking-tight">
-                APEX<span className="text-primary">CIVIL</span>
+                MAKE<span className="text-primary">OVER</span>
               </span>
             </Link>
 
@@ -121,7 +121,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
               <div className="flex items-center gap-2 mb-6">
                 <HardHat className="h-8 w-8 text-primary" />
                 <span className="text-2xl font-bold font-heading">
-                  APEX<span className="text-primary">CIVIL</span>
+                  MAKE<span className="text-primary">OVER</span>
                 </span>
               </div>
               <p className="text-gray-400 mb-6 leading-relaxed">
@@ -174,14 +174,14 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-primary shrink-0" />
-                  <a href="mailto:info@apexcivil.com" className="hover:text-white">info@apexcivil.com</a>
+                  <a href="mailto:info@apexcivil.com" className="hover:text-white">info@makeover.com</a>
                 </li>
               </ul>
             </div>
           </div>
           
           <div className="border-t border-gray-800 pt-8 text-center text-gray-500 text-sm">
-            <p>&copy; {new Date().getFullYear()} Apex Civil & Construction. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} MAKEOVER Construction. All rights reserved.</p>
           </div>
         </div>
       </footer>
